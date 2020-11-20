@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="1S08859-1" ?>
+
+<COURSE>
+<Department>
+<HOD>  MALINI </HOD>
+<dept> ECONOMICS </dept>
+<salary>89000</salary>
+</Department>
+
+<Department>
+<HOD>BALU</HOD>
+<dept>HISTORY</dept>
+<salary>99890</salary>
+</Department>
+
+<Department>
+<HOD>NIVAS</HOD>
+<dept>PSYCHOLOGY</dept>
+<salary>78600</salary>
+</Department>
+
+<Department>
+<HOD>PAVIKA</HOD>
+<dept>SCIENCE</dept>
+<salary>88760</salary>
+</Department>
+
+</COURSE>
